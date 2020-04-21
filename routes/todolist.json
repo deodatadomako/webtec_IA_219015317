@@ -1,0 +1,50 @@
+[
+    {
+        "task": "Oversee day to day activity ",
+        "position": "C.E.O",
+        "employee": "Deodat Adomako",
+        "status":"Confirmed"
+    },
+    {
+        "task": "Chair Board meeting",
+        "position": "C.O.O",
+        "employee": "Selina Bonsu",
+        "status" : "Pending..."
+    },
+    {
+        "task": "Employment of Staff",
+        "position": "Human Resource Manager",
+        "employee": "Efia Odo Worlasi",
+        "status" : "Confirmed"
+    },
+    {
+        "task": "Revise Company Constitution",
+        "position": "H.O.D Legal Affairs",
+        "employee": "Nana-Addo Zonanga",
+        "status" : "Pending..."
+    },
+    {
+        "task": "Design and build new office machine",
+        "position": "Civil Engineer",
+        "employee": "Vincent Asomasi Diesel",
+         "status" : "Confirmed"
+    },
+    {
+        "task": "Check security measures",
+        "position": "Head of Security",
+        "employee": "Jason Nii Ayi Statham",
+        "status" : "Confirmed"
+    },
+    {
+        "task": "Present monthly finances at Board meeting",
+        "position": "Financial Advisor",
+        "employee": "Bill Awotwe Gates",
+        "status" : "Pending..."
+    },
+    {
+        "task": "Review network problems",
+        "position": "IT Specialist",
+        "employee": "Tutulapato Obinim",
+         "status" : "Confirmed"
+    }
+]
