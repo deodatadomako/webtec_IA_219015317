@@ -1,12 +1,12 @@
 {
-  "name": "easysoftcompanylimited",
+  "name": "easysoftcompanyghanalimited",
   "version": "1.0.0",
-  "description": "this is an employee to do list application",
+  "description": "Employee to do list application",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Joseph Raymond Addo",
+  "author": "Adomako Deodat",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.0.2",
